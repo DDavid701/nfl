@@ -268,5 +268,3 @@ def format_number(format, number):
                 print('no this don exis .)!')
     else:
         print(f"E: Number can't be a type of '{type(number)}'")
-
-print(format_number(format='simplified', number=545455555556555))
